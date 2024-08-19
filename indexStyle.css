@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.ascii-art {
+    text-align: center;
+    margin-top: 15px;
+    white-space: pre-wrap;
+    font-family: monospace;
+}
+
+a.wip {
+    color:goldenrod;
+}
+
+a.txthtml {
+    color:coral;
+}
