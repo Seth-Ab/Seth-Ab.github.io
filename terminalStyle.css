@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.txtjs {
+    color: blue;
+}
+
+.txthtml {
+    color:coral;
+}
+
+.txtcss {
+    color:darkred;
+}
+
+.wip {
+    color:goldenrod
+}
+
+#input-line {
+    display: flex;
+    align-items: center;
+}
+
+#prompt {
+    margin-right: 7px;
+    color: #00FF00;
+    font-family: monospace;
+}
+
+#input {
+    font-size: 13px;
+    background-color: transparent;
+    border: none;
+    color: #00FF00;
+    font-family: monospace;
+    outline: none;
+    flex: 1;
+}
+
+#output {
+    color: #00FF00;
+    font-family: monospace;
+}
+
+a:visited {
+    color: #00FF00;
+}
+
+#username {
+    color: #00FF00;
+    font-family: monospace;
+}
